@@ -1,6 +1,10 @@
 # Food_Manufacturing_Company_MySQL
 Sales Analysis of a Food Manufacturing Company using MySQL Workbench
 
+The objective here is to analyze the dataset of a Food Manufacturing Company with MySQL Workbench and provide suggestions to management to maximize Sales and Customer Engagement at all of its outlets as well as formulate a marketing strategy to inculcate healthy food habits to the customer base.
+
+The final presentation is also uploaded, which provides a visual narrative of the analysis. 
+
 About the dataset:
 The given dataset contains information about various items produced by a Food Manufacturing Company and the outlets where they are sold. There are 7072 records and 11 fields. One column labelled 'No_of_units_sold' is feature engineered from dividing 'Sales' by 'Item_MRP'.
 
@@ -46,8 +50,4 @@ Insights driven from the dataset:
 6. The price of commodities in supermarkets is more or less same with that of grocery stores in all the 3 locations, which is a part of the pricing strategy of the company, which is to keep the prices competitive.
 
 7. Big sized supermarkets which give the most sales in tier 3 cities are nonexistent in tier 1 cities. This can be a part of the company's marketing strategy which focuses more on the tier 3 cities rather than tier 1 cities.
-
-The objective here is to analyze the dataset of a Food Manufacturing Company with MySQL Workbench and provide suggestions to management to maximize Sales and Customer Engagement at all of its outlets as well as formulate a marketing strategy to inculcate healthy food habits to the customer base.
-
-The final presentation is also uploaded, which provides a visual narrative of the analysis. 
 

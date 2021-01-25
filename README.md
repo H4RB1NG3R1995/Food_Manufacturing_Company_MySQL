@@ -33,5 +33,5 @@ The objective here is to analyze the dataset of a Food Manufacturing Company wit
 
 The insights are put in comments after each query.
 
-
+The final presentation is also uploaded, which provides a visual narrative of the analysis. 
 

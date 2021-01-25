@@ -30,6 +30,8 @@ The features are explained as follows:
 12. Number_of_units_sold:- The number of units sold of a particular item at an outlet.
 
 
+
+
 Insights driven from the dataset:
 1. Seafood is the least bought item across all the outlet types, except in supermarket type 3, where it is not sold at all. Surprisingly health and hygiene products are mostly not bought from Supermarket Type 3, whereas from other supermarkets, that's not the case. This is happening because of its size and location, where people are not aware about these products.
 
